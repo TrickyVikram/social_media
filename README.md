@@ -1,14 +1,9 @@
-# Laravel Social Media Website
-Laravel Social Media Website built with Inertia Vue.js. The project was created during the following 48 hours YouTube Playlist [YouTube Tutorial](https://www.youtube.com/watch?v=4iiEyOKhvao&list=PLLQuc_7jk__Wa8IoZ2s0J-ql_MIisndtZ).
-
-## Demo
-The application is deployed on the following domain [laravel-space.com](https://laravel-space.com/)
 
 ## Installation with docker
 
 #### 1. Clone the project
 ```bash
-git clone https://github.com/thecodeholic/laravel-social-media-website.git
+git clone https://github.com/TrickyVikram/social_media.git
 ```
 
 #### 2. Run `composer install`
